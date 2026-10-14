@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarvarbek-566.sarvarbek-566&color=00ff9c&style=flat-square" alt="views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=voidsecurity404.voidsecurity404&color=00ff9c&style=flat-square" alt="views" />
   <img src="https://img.shields.io/badge/Location-Navoiy,%20Uzbekistan-00ff9c?style=flat-square&labelColor=0d1117" alt="location" />
 </p>
 
@@ -51,19 +51,19 @@ motto:  "If it's on the internet, it has an attack surface."
 ### `> git log --stats`
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=sarvarbek-566&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarbek-566&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9" alt="languages" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=voidsecurity404&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidsecurity404&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9" alt="languages" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarvarbek-566/sarvarbek-566/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sarvarbek-566/sarvarbek-566/output/snake.svg" alt="contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidsecurity404/voidsecurity404/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/voidsecurity404/voidsecurity404/output/snake.svg" alt="contribution snake" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sarvarbek-566/ytamp"><img src="https://img.shields.io/badge/Featured-ytamp_·_Go_TUI_music_player-00ff9c?style=flat-square&labelColor=0d1117&logo=github" /></a>
+  <a href="https://github.com/voidsecurity404/ytamp"><img src="https://img.shields.io/badge/Featured-ytamp_·_Go_TUI_music_player-00ff9c?style=flat-square&labelColor=0d1117&logo=github" /></a>
   <a href="mailto:sarvaribodullayev2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
