@@ -65,6 +65,7 @@ motto:  "If it's on the internet, it has an attack surface."
 <p align="center">
   <a href="https://github.com/voidsecurity404/ytamp"><img src="https://img.shields.io/badge/Featured-ytamp_·_Go_TUI_music_player-00ff9c?style=flat-square&labelColor=0d1117&logo=github" /></a>
   <a href="mailto:sarvaribodullayev2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sarvar-ibodullayev-28b59b372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
